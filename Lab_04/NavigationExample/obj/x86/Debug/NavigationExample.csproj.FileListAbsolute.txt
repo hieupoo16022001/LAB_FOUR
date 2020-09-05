@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\NavigationExample.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\App.g.i.cs
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\App.g.cs
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page2.g.i.cs
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page2.g.cs
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\App.xaml
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page2.xaml
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page1.xaml
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\MainPage.xaml
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\App.xbf
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page2.xbf
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page1.xbf
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\MainPage.xbf
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page1.g.i.cs
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page1.g.cs
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page3.xaml
+C:\Users\DELL\source\repos\Lab_04\NavigationExample\obj\x86\Debug\Page3.xbf
